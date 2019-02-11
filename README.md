@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: No submission in GitHub :-(
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
